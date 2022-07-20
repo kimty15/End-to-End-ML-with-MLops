@@ -2,6 +2,7 @@ churn_model
 ==============================
 
 End to End Machine learning pipeline with MLOps tools
+
 Link tutorial : [Link](https://medium.com/@shanakachathuranga/end-to-end-machine-learning-pipeline-with-mlops-tools-mlflow-dvc-flask-heroku-evidentlyai-github-c38b5233778c)
 
 Project Organization
